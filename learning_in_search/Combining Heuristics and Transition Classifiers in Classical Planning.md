@@ -25,8 +25,8 @@ Learning relies on description logic to lift features and optimal solutions on s
 		* Labels are global here, local there
 * [Github Repo](https://github.com/mrlab-ai/transition-classifier)
 * Feature Generation
-	* Learning General Planning Policies from Small Examples without Supervision #TODO put it on the to-read pile
-	* Description Logics state features for planning #TODO put it on the to-read pile
+	* Learning General Planning Policies from Small Examples without Supervision
+	* Description Logics state features for planning
 # Notes
 * Contributions
 	* New search algorithm that blends policy following and traditional best first search strategies
