@@ -18,9 +18,10 @@
 * Unsorted
     * [[Effective Data Generation and Feature Selection in Learning for Planning]]
     * [Graph Learning for Planning: The Story Thus Far and Open Challenges](https://arxiv.org/abs/2412.02136)
-    * Learning and Exploitng Progress States in Greedy Best First Search
+    * Learning and Exploiting Progress States in Greedy Best First Search
 	* A Review of Generalized Planning in the Knowledge Engineering Review
 	* Learning Control Knowledge for Forward Search Planning
+	* Learning to rank for synthesizing planning heuristics
 * Urgent
     * Description Logics state features for planning
     * Effective Heuristics for Suboptimal Best First Search (Wilt & Ruml)
