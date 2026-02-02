@@ -22,7 +22,6 @@
 	* Learning Control Knowledge for Forward Search Planning
 	* Learning to rank for synthesizing planning heuristics
 * Urgent
-    * Description Logics state features for planning
     * Effective Heuristics for Suboptimal Best First Search (Wilt & Ruml)
 * Good to Know
 	* Learning General Planning Policies from Small Examples without Supervision
