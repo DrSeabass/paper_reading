@@ -32,7 +32,8 @@
 * Unsorted
 	* Iterative Width Search
 	* [Bilevel MCTS for Amortized O(1) Node Selection in Classical Planning](https://arxiv.org/abs/2508.08385)
-	* [Rectangle Search: An Anytime Beam Search](file:///home/jorth68/Downloads/30063-Article%20Text-34117-1-2-20240324.pdf)
+	* Stratified Tree Search: A Novel Suboptimal Heuristic Search Algorithm
+	* Beam Search: Faster and Monotonic
 * Urgent
 * Good to Know
 * Dessert
