@@ -23,6 +23,8 @@
 	* Learning to rank for synthesizing planning heuristics
 * Urgent
     * Effective Heuristics for Suboptimal Best First Search (Wilt & Ruml)
+    * https://cse.sc.edu/~foresta/assets/files/SolvingTheRubiksCubeWithDeepReinforcementLearningAndSearch_Final.pdf
+    * https://ojs.aaai.org/index.php/ICAPS/article/view/31454/33614
 * Good to Know
 	* Learning General Planning Policies from Small Examples without Supervision
 	* Chrestien et al., 2023, Optimize Planning Heuristics to Rank, Not to Estimate Cost-to-Goal (NeurIPS)
