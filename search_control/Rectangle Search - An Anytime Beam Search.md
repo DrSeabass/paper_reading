@@ -20,6 +20,10 @@ Paper introduces rectangle search.  A variant on beam search that exists in the 
 
 ## Contributions
 ![[paper_reading/search_control/rectangle_search.png]]
+Ok, the issue in my understanding is that my old understanding is flawed!
+This is how triangle search works, in a certain sense.
+Rectangle search maintains a fixed beam at all levels
+Triangle search grows down like a stalactite
 ## Key Insights
 * Remember that anytime search is actually a collection of algorithms with its own taxonomy
 	* Contract Search is fed the deadline and tries to respond to it
